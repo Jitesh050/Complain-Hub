@@ -78,7 +78,7 @@ Ensure you have the following installed:
 git clone https://github.com/Meghashree-V/ComplainHub.git
 cd ComplainHub-endpoints/ComplainKaroBro
 ```
-Or visit the repository directly on GitHub: 👉 [github.com/Meghashree-V/ComplainHub](https://github.com/Meghashree-V/ComplainHub)
+Or visit the repository directly on GitHub: 👉 [github.com/Jitesh050/Complain-Hub](https://github.com/Jitesh050/Complain-Hub.git)
 
 #### 2. Frontend Setup
 ```bash
